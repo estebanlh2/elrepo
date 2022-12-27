@@ -8,5 +8,3 @@ function ayuda ( misha ) {
 let dimelo = ayuda(mishanegativo);
 
 console.log(dimelo)
- 
-hacer que los positivos se vuelvan negativos y al contrario
