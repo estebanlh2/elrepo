@@ -1,0 +1,11 @@
+{
+  "name": "El primer proyecto",
+  "version": "6.1.9",
+  "description": "",
+  "main": "latarea.js",
+  "scripts": {
+   "go": "node latarea.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

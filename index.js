@@ -1,0 +1,1 @@
+console.log("Se puede leer desde index")
